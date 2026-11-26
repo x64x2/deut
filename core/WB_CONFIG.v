@@ -1,0 +1,2 @@
+`define	WB_DATA_WIDTH		32
+`define	WB_GRANULARITY		32
